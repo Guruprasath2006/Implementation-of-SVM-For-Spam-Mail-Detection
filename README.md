@@ -1,3 +1,6 @@
+# Implementation-of-SVM-For-Spam-Mail-Detection
+
+
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
@@ -59,7 +62,7 @@ print(cl)
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: GURU PRASATH K M
-RegisterNumber: 212224230079
+RegisterNumber: 212224230079 
 */
 ```
 
